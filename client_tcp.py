@@ -2,7 +2,7 @@ import socket
 
 
 # Define socket host and port
-SERVER_HOST = '0.0.0.0'
+SERVER_HOST = '3.22.194.164'
 SERVER_PORT = 80
 
 # Create socket
